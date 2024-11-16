@@ -1,0 +1,3 @@
+Bu sayt Mediaform korxonasining ish jarayonlarini avtomatlashtirish uchun yaratilgan. Men ushbu saytnning backend qismini yaratish ustida ishladim.
+
+Saytning asosiy vazifasi hodimlarga ishlarni berish va ularning bajarilishini nazorat qilishdir. Hodimlar o‘zlariga berilgan ishlarni ko‘ra olishadi, ish beruvchi esa hodimlarga ishlarni berish, ishlarning holatini kuzatish va ularning qachon bajarilganligi haqida ma’lumot olish imkoniyatiga ega. Ushbu platforma ish beruvchiga ish jarayonini to‘liq nazorat qilish va ishlarning o‘z vaqtida bajarilishini ta’minlash imkonini beradi, bu esa jarayonni yanada samarali va oshkora qiladi.
